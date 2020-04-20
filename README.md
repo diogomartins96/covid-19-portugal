@@ -3,7 +3,8 @@
 
 ## List of Versions:
 
-V2.0 - 19/04 - Website development https://diogomartins96.github.io/covid-19-portugal
+V2.0 - 19/04 - Website development https://diogomartins96.github.io/covid-19-portugal.
+
 V1.2 - 17/04 - Addition of a Ranking and number of cases per Municipality.
 
 V1.1 - 14/04 - Script that daily updates the number of cases in each Municipality.
