@@ -19,8 +19,8 @@ V2.1 - 21/04 - Add a CSS Framework from https://www.w3schools.com/
 
 V2.0 - 19/04 - Website development https://diogomartins96.github.io/covid-19-portugal.
 
-V1.2 - 17/04 - Addition of a Ranking and number of cases per Municipality.
+V1.2 - 17/04 - Addition of a Ranking and number of cases per *Municipality*.
 
-V1.1 - 14/04 - Script that daily updates the number of cases in each Municipality.
+V1.1 - 14/04 - Script that daily updates the number of cases in each *Municipality*.
 
 V1.0 - 12/04 - Daily update of data and numbers provided by DGS. Graphics, Statistics and Analysis by ARS (Regional Health Administration) and Autonomous Regions.
