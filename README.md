@@ -6,7 +6,7 @@
 
 ## List of Versions:
 
-V2.7 - 06/06 - Add a Daily Information on the 1st page.
+V2.7 - 06/06 - Add a Daily Information on the 1st page and a New About Page.
 
 V2.6 - 27/05 - Renew Layout.
 
